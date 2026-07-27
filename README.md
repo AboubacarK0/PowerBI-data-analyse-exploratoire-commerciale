@@ -3,7 +3,9 @@
 * **Analyse & Segmentation :** Identifier des pistes de solutions pour augmenter la part de marché sur le segment -30 ans. Démontrer le segment principal (tranche 30-50 ans) et analyser la répartition par formules de garanties.
 * **Profil des clients :** Analyser le profil des clients selon leur sexe, leur profession, et leur usage des véhicules.  
 * **Pilotage Commercial :** Suivre les indicateurs clés de performance (1 739 contrats, 1 255 clients, prime moyenne de 129,60 €).
-* **Cartographie & Saisonnalité :** Visualiser la distribution géographique par département et observer l'évolution mensuelle des souscriptions.  
+* **Cartographie & Saisonnalité :** Visualiser la distribution géographique par département et observer l'évolution mensuelle des souscriptions.   
+
+![Aperçu Page 1 du Dashboard Power BI](POWER_BI_page1.png)  
 
 ## Fonctionnalités & Insights du Tableau de Bord  
 ### Page 1 : Vue globale  
