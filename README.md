@@ -12,7 +12,7 @@
 - **Analyse temporelle & saisonnalité :** Mise en évidence des pics de souscription (notamment au printemps/été 2024).
 - **Cartographie dynamique & Filtres :** Exploration géographique par département et filtres temporels multi-critères.
   
-![Aperçu Page 1 du Dashboard Power BI](POWER_BI_page1.png)   
+ 
 
 ## Stack Technique
 
